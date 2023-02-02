@@ -19,8 +19,8 @@
 .calculator form input{
     border: 0;
     outline: 0;
-    width: 60px;
-    height: 60px;
+    width: 65px;
+    height: 65px;
     border-radius: 10px;
     box-shadow: -8px -8px 15px rgba(157, 154, 154, 0.1),5px 5px 15px rgba(0, 0, 0, 0.2);
     background: #05386b;
@@ -47,7 +47,7 @@ form .display input{
 }
 
 form input.equal{
-    width: 145px;
+    width: 155px;
     
 }
 form input.operator{
